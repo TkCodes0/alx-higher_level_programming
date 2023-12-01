@@ -3,7 +3,7 @@
 """
  Create class called square
 """
- 
- 
+
+
 class Square:
-     pass
+    pass
